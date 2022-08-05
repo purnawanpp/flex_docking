@@ -1,4 +1,4 @@
-# Tutorial Flexible Docking
+# Tutorial Flexible Docking menggunakan AutoDock-GPU
 
 1. pythonsh prepare_flexreceptor.py -r 1fpu_receptor.pdbqt -s THR315
 2. pythonsh prepare_gpf.py -l lig.pdbqt -r rec_rigid.pdbqt -y
